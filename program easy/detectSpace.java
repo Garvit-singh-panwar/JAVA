@@ -14,7 +14,7 @@ public class detectSpace{
         else if(str.contains(" ")){
             System.out.println("it contains Single Space");
         }
-        
+         
     }
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
